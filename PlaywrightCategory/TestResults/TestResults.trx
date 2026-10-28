@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="3d165086-6e78-462d-a422-22557c2ee4b2" name="HariharanP@LAPTOP-HI02UHCH 2026-10-28 13:55:02" runUser="AzureAD\HariharanP" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-10-28T13:55:02.4853669+05:30" queuing="2026-10-28T13:55:02.4853678+05:30" start="2026-10-28T13:54:53.3321915+05:30" finish="2026-10-28T13:55:52.6882854+05:30" />
+  <TestSettings name="default" id="8f9880c1-057a-4e43-9cfa-b5a6f942d3aa">
+    <Deployment runDeploymentRoot="HariharanP_LAPTOP-HI02UHCH_2026-10-28_13_55_02" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="eb58abe0-36c0-45b7-91f8-55b32651a093" testId="ce355a25-9505-2649-d72b-deebc86af876" testName="Button1_ShouldBeClickable" computerName="LAPTOP-HI02UHCH" duration="00:00:05.9115860" startTime="2026-10-28T13:54:56.5140069+05:30" endTime="2026-10-28T13:55:02.4254334+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb58abe0-36c0-45b7-91f8-55b32651a093" />
+    <UnitTestResult executionId="6846d7ad-a419-4f5f-b3fb-de85368cf329" testId="6f55a17b-105b-cbe8-f1fe-861c0e3fa356" testName="ClickUsingIdLink_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:01.2556980" startTime="2026-10-28T13:55:10.1468363+05:30" endTime="2026-10-28T13:55:11.4025338+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6846d7ad-a419-4f5f-b3fb-de85368cf329" />
+    <UnitTestResult executionId="50c09d07-865c-46c7-8411-e67db315ea02" testId="df57805f-67b4-a59f-486c-2bbdaf8d3d41" testName="ConsultingScheduleLink_ShouldOpenForm" computerName="LAPTOP-HI02UHCH" duration="00:00:03.4577790" startTime="2026-10-28T13:55:11.4032656+05:30" endTime="2026-10-28T13:55:14.8610460+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50c09d07-865c-46c7-8411-e67db315ea02" />
+    <UnitTestResult executionId="450372f0-3597-4815-a516-ac5a0d96f963" testId="7c4c482f-03c1-933f-d8e8-b9a2b9627db6" testName="AutomationPage_ShouldLoadSuccessfully" computerName="LAPTOP-HI02UHCH" duration="00:00:02.0188020" startTime="2026-10-28T13:55:39.0626789+05:30" endTime="2026-10-28T13:55:41.0814825+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="450372f0-3597-4815-a516-ac5a0d96f963" />
+    <UnitTestResult executionId="da5baa3d-ee7b-4e83-b766-d54d9fe28ebe" testId="5e5ae38a-f8f3-e85e-6ec3-27281031bcbf" testName="BikeCheckbox_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:01.5947880" startTime="2026-10-28T13:55:45.4229168+05:30" endTime="2026-10-28T13:55:47.0177060+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da5baa3d-ee7b-4e83-b766-d54d9fe28ebe" />
+    <UnitTestResult executionId="8dad7a26-f585-44e2-ae4e-c9b26a8b9329" testId="97b3481c-a448-cc04-2d6d-96d8ad0a76b6" testName="ContactForm_MessageField_ShouldAcceptInput" computerName="LAPTOP-HI02UHCH" duration="00:00:00.9036440" startTime="2026-10-28T13:55:33.1311636+05:30" endTime="2026-10-28T13:55:34.0348071+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8dad7a26-f585-44e2-ae4e-c9b26a8b9329">
+      <Output>
+        <StdOut>Textareas: 0&#xD;
+Textboxes: 0&#xD;
+Frames: 2&#xD;
+Frame URL: https://40m40a.share-na2.hsforms.com/23I1BOSbZSkmmb1UP2OzAjw&#xD;
+Frame textareas: 0&#xD;
+Frame textboxes: 0&#xD;
+Frame URL: about:blank&#xD;
+Frame textareas: 0&#xD;
+Frame textboxes: 0</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="44074ead-cf9d-4ba7-93cd-3fc45de66950" testId="f7d353fa-9ee4-4aff-07f0-ecd2cedeb161" testName="ContactForm_EmailField_ShouldAcceptValidEmail" computerName="LAPTOP-HI02UHCH" duration="00:00:00.9900710" startTime="2026-10-28T13:55:32.1404893+05:30" endTime="2026-10-28T13:55:33.1305606+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44074ead-cf9d-4ba7-93cd-3fc45de66950" />
+    <UnitTestResult executionId="991f1c58-20d8-46c5-b349-24ffb45cd3e0" testId="ae562921-fd64-76ab-4ed9-ec04210dc31b" testName="ServicesLink_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:02.2258510" startTime="2026-10-28T13:55:18.9668901+05:30" endTime="2026-10-28T13:55:21.1927422+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="991f1c58-20d8-46c5-b349-24ffb45cd3e0" />
+    <UnitTestResult executionId="e9bd4e21-400a-40a0-94fd-892afd32d7b0" testId="bceccd27-33eb-8cd4-59be-0cbfbc277260" testName="ContactForm_CaptchaResponseField_ShouldExist" computerName="LAPTOP-HI02UHCH" duration="00:00:02.3747890" startTime="2026-10-28T13:55:26.9484986+05:30" endTime="2026-10-28T13:55:29.3232878+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e9bd4e21-400a-40a0-94fd-892afd32d7b0" />
+    <UnitTestResult executionId="4b1dec95-bdea-4096-a3e9-17cbc58ecfff" testId="9cd9f01f-a8ab-055d-0b4c-28bddded5c1e" testName="ContactForm_NameField_ShouldAcceptInput" computerName="LAPTOP-HI02UHCH" duration="00:00:00.9032630" startTime="2026-10-28T13:55:34.0360670+05:30" endTime="2026-10-28T13:55:34.9393302+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b1dec95-bdea-4096-a3e9-17cbc58ecfff" />
+    <UnitTestResult executionId="d2de5664-283c-481e-9977-e4bfc698e294" testId="bc6dba8e-8953-d6f8-cdda-27e2ed9330c6" testName="MaleRadioButton_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:00.8378530" startTime="2026-10-28T13:55:50.1963956+05:30" endTime="2026-10-28T13:55:51.0342487+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d2de5664-283c-481e-9977-e4bfc698e294" />
+    <UnitTestResult executionId="0783b4ce-a1f1-4785-be2b-6bacd6092187" testId="ea135cb0-8d82-e3dd-1698-1530d29a5feb" testName="ContactForm_RoleField_ShouldAcceptInput" computerName="LAPTOP-HI02UHCH" duration="00:00:00.8645390" startTime="2026-10-28T13:55:35.8320051+05:30" endTime="2026-10-28T13:55:36.6965446+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0783b4ce-a1f1-4785-be2b-6bacd6092187" />
+    <UnitTestResult executionId="2e0406db-aacf-4a48-bdad-fda370503143" testId="6390a4a2-667d-8cd5-d644-b260e609ab9e" testName="Dropdown_ShouldAllowSelectingOption" computerName="LAPTOP-HI02UHCH" duration="00:00:02.8914870" startTime="2026-10-28T13:55:24.0561038+05:30" endTime="2026-10-28T13:55:26.9475750+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e0406db-aacf-4a48-bdad-fda370503143" />
+    <UnitTestResult executionId="ae7f1ec3-0146-454a-ba12-d2e6347fb435" testId="ad9a3be4-be88-f889-e623-8987a6bddfe1" testName="ClickThisLink_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:01.5009470" startTime="2026-10-28T13:55:08.6455327+05:30" endTime="2026-10-28T13:55:10.1464792+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae7f1ec3-0146-454a-ba12-d2e6347fb435" />
+    <UnitTestResult executionId="91c547b0-c06e-473f-8ebe-b7c6ab31bef4" testId="57e1be12-d0d5-efec-8a76-d7391b406d9c" testName="FemaleRadioButton_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:01.5989930" startTime="2026-10-28T13:55:48.5952516+05:30" endTime="2026-10-28T13:55:50.1942463+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91c547b0-c06e-473f-8ebe-b7c6ab31bef4" />
+    <UnitTestResult executionId="9010571b-952e-44d7-b247-62eac37cf288" testId="498ce223-5841-bdda-2ef2-2b362aa885ed" testName="BikeCheckbox_ShouldBeChecked" computerName="LAPTOP-HI02UHCH" duration="00:00:01.9233130" startTime="2026-10-28T13:55:41.0827420+05:30" endTime="2026-10-28T13:55:43.0060560+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9010571b-952e-44d7-b247-62eac37cf288">
+      <Output>
+        <StdOut>Before click: False&#xD;
+HTML: &lt;input type="checkbox" name="vehicle" value="Bike"&gt;&#xD;
+After click: False</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="85b2388e-eb51-4b63-bff1-1533f12561b6" testId="9b35445c-427a-a1c7-1ec9-93280d840a90" testName="ContactForm_CompanyNameField_ShouldAcceptInput" computerName="LAPTOP-HI02UHCH" duration="00:00:00.8854560" startTime="2026-10-28T13:55:29.3233854+05:30" endTime="2026-10-28T13:55:30.2088415+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85b2388e-eb51-4b63-bff1-1533f12561b6" />
+    <UnitTestResult executionId="4ae5fe35-b3ea-423d-9d3d-b0b71aee5f45" testId="43263809-cc7d-5153-f33e-50f0afeb71ac" testName="RaiseButton_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:02.3071620" startTime="2026-10-28T13:55:16.6585260+05:30" endTime="2026-10-28T13:55:18.9656885+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ae5fe35-b3ea-423d-9d3d-b0b71aee5f45" />
+    <UnitTestResult executionId="f2c906c6-f4cb-4c96-a3fc-87cce3f6249f" testId="d3092ad3-a536-d9e0-095e-050a28c43a39" testName="ServicesLink_ShouldNavigateToConsultingPage" computerName="LAPTOP-HI02UHCH" duration="00:00:02.8477030" startTime="2026-10-28T13:55:21.1930992+05:30" endTime="2026-10-28T13:55:24.0408029+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2c906c6-f4cb-4c96-a3fc-87cce3f6249f" />
+    <UnitTestResult executionId="5a05ef2c-921f-4c52-89b2-3dd30560cabc" testId="3c6468c0-beeb-4b32-c631-81a7e98e88e9" testName="ClickMeButton_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:02.3493830" startTime="2026-10-28T13:55:03.7678293+05:30" endTime="2026-10-28T13:55:06.1172119+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a05ef2c-921f-4c52-89b2-3dd30560cabc" />
+    <UnitTestResult executionId="d23f8901-cdd8-4692-9d1a-ab6cfd44b541" testId="76f1a43c-8371-175b-0775-04ee99471b10" testName="AutomationPage_ShouldDisplayMainHeading" computerName="LAPTOP-HI02UHCH" duration="00:00:02.3636950" startTime="2026-10-28T13:55:36.6984414+05:30" endTime="2026-10-28T13:55:39.0621368+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d23f8901-cdd8-4692-9d1a-ab6cfd44b541" />
+    <UnitTestResult executionId="bc77b019-2ad0-43ae-8fb2-cc70da0ec3c0" testId="1bce6317-7394-9783-30b7-284b4b1c1b18" testName="ContactForm_EmailField_ShouldAcceptInput" computerName="LAPTOP-HI02UHCH" duration="00:00:01.9307400" startTime="2026-10-28T13:55:30.2092360+05:30" endTime="2026-10-28T13:55:32.1399766+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc77b019-2ad0-43ae-8fb2-cc70da0ec3c0" />
+    <UnitTestResult executionId="e20d737b-8eb9-4d56-8f31-656836a9fb02" testId="f68492f8-e057-8d87-ef18-1deedc111062" testName="BikeCheckbox_ShouldBeCheckedFinal" computerName="LAPTOP-HI02UHCH" duration="00:00:02.4083870" startTime="2026-10-28T13:55:43.0132882+05:30" endTime="2026-10-28T13:55:45.4216806+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e20d737b-8eb9-4d56-8f31-656836a9fb02" />
+    <UnitTestResult executionId="6221892b-6bad-4da4-a2ff-59fca67de376" testId="97d6f897-4030-66ec-2c91-d7b6036630b7" testName="CarCheckbox_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:01.5745849" startTime="2026-10-28T13:55:47.0184914+05:30" endTime="2026-10-28T13:55:48.5930773+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6221892b-6bad-4da4-a2ff-59fca67de376" />
+    <UnitTestResult executionId="35b1ce2a-8249-4257-9d5b-f435ce561ffc" testId="c39c0913-ca96-efe0-794f-f51f328d8475" testName="LinkTextNavigation_ShouldBeVisible" computerName="LAPTOP-HI02UHCH" duration="00:00:01.7965960" startTime="2026-10-28T13:55:14.8616476+05:30" endTime="2026-10-28T13:55:16.6582452+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35b1ce2a-8249-4257-9d5b-f435ce561ffc" />
+    <UnitTestResult executionId="4d081617-8115-460c-ac48-cda13cb627a7" testId="a2dfe42b-af93-1acf-6074-60f2dce80817" testName="Button2_ShouldBeClickable" computerName="LAPTOP-HI02UHCH" duration="00:00:01.3388640" startTime="2026-10-28T13:55:02.4288947+05:30" endTime="2026-10-28T13:55:03.7677587+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d081617-8115-460c-ac48-cda13cb627a7" />
+    <UnitTestResult executionId="b9639724-353d-462b-be86-b895dcbb7fff" testId="196715b5-2f2b-fd36-87ca-34a136ccb0fd" testName="ContactForm_NameField_ShouldBeRequired" computerName="LAPTOP-HI02UHCH" duration="00:00:00.8892350" startTime="2026-10-28T13:55:34.9404345+05:30" endTime="2026-10-28T13:55:35.8296692+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b9639724-353d-462b-be86-b895dcbb7fff" />
+    <UnitTestResult executionId="7fa0f53b-9065-4657-b14f-e67060eb988f" testId="bc080bdc-eace-7d28-6fa0-16b280958634" testName="RadioButton_ShouldAllowOnlyOneSelection" computerName="LAPTOP-HI02UHCH" duration="00:00:01.4650690" startTime="2026-10-28T13:55:51.0346010+05:30" endTime="2026-10-28T13:55:52.4996709+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7fa0f53b-9065-4657-b14f-e67060eb988f">
+      <Output>
+        <StdOut>Male checked: False&#xD;
+Female checked: True&#xD;
+Male checked after selecting female: False</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4f9a73b2-ee9f-4562-a3f2-c8ec2c35d330" testId="e9ed7e2e-7d01-56b7-43cb-7e9647908dcd" testName="ClickMeLink_ShouldNavigateToSuccessPage" computerName="LAPTOP-HI02UHCH" duration="00:00:02.5277000" startTime="2026-10-28T13:55:06.1175515+05:30" endTime="2026-10-28T13:55:08.6452521+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f9a73b2-ee9f-4562-a3f2-c8ec2c35d330" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="AutomationPage_ShouldDisplayMainHeading" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="76f1a43c-8371-175b-0775-04ee99471b10">
+      <Execution id="d23f8901-cdd8-4692-9d1a-ab6cfd44b541" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.NavigationTests" name="AutomationPage_ShouldDisplayMainHeading" />
+    </UnitTest>
+    <UnitTest name="ServicesLink_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="ae562921-fd64-76ab-4ed9-ec04210dc31b">
+      <Execution id="991f1c58-20d8-46c5-b349-24ffb45cd3e0" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="ServicesLink_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="Button2_ShouldBeClickable" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="a2dfe42b-af93-1acf-6074-60f2dce80817">
+      <Execution id="4d081617-8115-460c-ac48-cda13cb627a7" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="Button2_ShouldBeClickable" />
+    </UnitTest>
+    <UnitTest name="ServicesLink_ShouldNavigateToConsultingPage" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="d3092ad3-a536-d9e0-095e-050a28c43a39">
+      <Execution id="f2c906c6-f4cb-4c96-a3fc-87cce3f6249f" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="ServicesLink_ShouldNavigateToConsultingPage" />
+    </UnitTest>
+    <UnitTest name="ConsultingScheduleLink_ShouldOpenForm" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="df57805f-67b4-a59f-486c-2bbdaf8d3d41">
+      <Execution id="50c09d07-865c-46c7-8411-e67db315ea02" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="ConsultingScheduleLink_ShouldOpenForm" />
+    </UnitTest>
+    <UnitTest name="ClickMeButton_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="3c6468c0-beeb-4b32-c631-81a7e98e88e9">
+      <Execution id="5a05ef2c-921f-4c52-89b2-3dd30560cabc" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="ClickMeButton_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="ClickUsingIdLink_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="6f55a17b-105b-cbe8-f1fe-861c0e3fa356">
+      <Execution id="6846d7ad-a419-4f5f-b3fb-de85368cf329" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="ClickUsingIdLink_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="ContactForm_CaptchaResponseField_ShouldExist" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="bceccd27-33eb-8cd4-59be-0cbfbc277260">
+      <Execution id="e9bd4e21-400a-40a0-94fd-892afd32d7b0" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_CaptchaResponseField_ShouldExist" />
+    </UnitTest>
+    <UnitTest name="BikeCheckbox_ShouldBeCheckedFinal" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="f68492f8-e057-8d87-ef18-1deedc111062">
+      <Execution id="e20d737b-8eb9-4d56-8f31-656836a9fb02" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.RadioAndCheckboxTests" name="BikeCheckbox_ShouldBeCheckedFinal" />
+    </UnitTest>
+    <UnitTest name="ContactForm_RoleField_ShouldAcceptInput" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="ea135cb0-8d82-e3dd-1698-1530d29a5feb">
+      <Execution id="0783b4ce-a1f1-4785-be2b-6bacd6092187" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_RoleField_ShouldAcceptInput" />
+    </UnitTest>
+    <UnitTest name="ContactForm_EmailField_ShouldAcceptInput" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="1bce6317-7394-9783-30b7-284b4b1c1b18">
+      <Execution id="bc77b019-2ad0-43ae-8fb2-cc70da0ec3c0" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_EmailField_ShouldAcceptInput" />
+    </UnitTest>
+    <UnitTest name="ContactForm_NameField_ShouldAcceptInput" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="9cd9f01f-a8ab-055d-0b4c-28bddded5c1e">
+      <Execution id="4b1dec95-bdea-4096-a3e9-17cbc58ecfff" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_NameField_ShouldAcceptInput" />
+    </UnitTest>
+    <UnitTest name="ContactForm_CompanyNameField_ShouldAcceptInput" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="9b35445c-427a-a1c7-1ec9-93280d840a90">
+      <Execution id="85b2388e-eb51-4b63-bff1-1533f12561b6" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_CompanyNameField_ShouldAcceptInput" />
+    </UnitTest>
+    <UnitTest name="FemaleRadioButton_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="57e1be12-d0d5-efec-8a76-d7391b406d9c">
+      <Execution id="91c547b0-c06e-473f-8ebe-b7c6ab31bef4" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.RadioAndCheckboxTests" name="FemaleRadioButton_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="AutomationPage_ShouldLoadSuccessfully" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="7c4c482f-03c1-933f-d8e8-b9a2b9627db6">
+      <Execution id="450372f0-3597-4815-a516-ac5a0d96f963" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.NavigationTests" name="AutomationPage_ShouldLoadSuccessfully" />
+    </UnitTest>
+    <UnitTest name="LinkTextNavigation_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="c39c0913-ca96-efe0-794f-f51f328d8475">
+      <Execution id="35b1ce2a-8249-4257-9d5b-f435ce561ffc" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="LinkTextNavigation_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="ClickThisLink_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="ad9a3be4-be88-f889-e623-8987a6bddfe1">
+      <Execution id="ae7f1ec3-0146-454a-ba12-d2e6347fb435" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="ClickThisLink_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="BikeCheckbox_ShouldBeChecked" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="498ce223-5841-bdda-2ef2-2b362aa885ed">
+      <Execution id="9010571b-952e-44d7-b247-62eac37cf288" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.RadioAndCheckboxTests" name="BikeCheckbox_ShouldBeChecked" />
+    </UnitTest>
+    <UnitTest name="RadioButton_ShouldAllowOnlyOneSelection" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="bc080bdc-eace-7d28-6fa0-16b280958634">
+      <Execution id="7fa0f53b-9065-4657-b14f-e67060eb988f" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.RadioAndCheckboxTests" name="RadioButton_ShouldAllowOnlyOneSelection" />
+    </UnitTest>
+    <UnitTest name="MaleRadioButton_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="bc6dba8e-8953-d6f8-cdda-27e2ed9330c6">
+      <Execution id="d2de5664-283c-481e-9977-e4bfc698e294" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.RadioAndCheckboxTests" name="MaleRadioButton_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="ContactForm_EmailField_ShouldAcceptValidEmail" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="f7d353fa-9ee4-4aff-07f0-ecd2cedeb161">
+      <Execution id="44074ead-cf9d-4ba7-93cd-3fc45de66950" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_EmailField_ShouldAcceptValidEmail" />
+    </UnitTest>
+    <UnitTest name="Button1_ShouldBeClickable" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="ce355a25-9505-2649-d72b-deebc86af876">
+      <Execution id="eb58abe0-36c0-45b7-91f8-55b32651a093" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="Button1_ShouldBeClickable" />
+    </UnitTest>
+    <UnitTest name="ClickMeLink_ShouldNavigateToSuccessPage" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="e9ed7e2e-7d01-56b7-43cb-7e9647908dcd">
+      <Execution id="4f9a73b2-ee9f-4562-a3f2-c8ec2c35d330" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="ClickMeLink_ShouldNavigateToSuccessPage" />
+    </UnitTest>
+    <UnitTest name="Dropdown_ShouldAllowSelectingOption" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="6390a4a2-667d-8cd5-d644-b260e609ab9e">
+      <Execution id="2e0406db-aacf-4a48-bdad-fda370503143" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.DropdownTests" name="Dropdown_ShouldAllowSelectingOption" />
+    </UnitTest>
+    <UnitTest name="CarCheckbox_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="97d6f897-4030-66ec-2c91-d7b6036630b7">
+      <Execution id="6221892b-6bad-4da4-a2ff-59fca67de376" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.RadioAndCheckboxTests" name="CarCheckbox_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="BikeCheckbox_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="5e5ae38a-f8f3-e85e-6ec3-27281031bcbf">
+      <Execution id="da5baa3d-ee7b-4e83-b766-d54d9fe28ebe" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.RadioAndCheckboxTests" name="BikeCheckbox_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="RaiseButton_ShouldBeVisible" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="43263809-cc7d-5153-f33e-50f0afeb71ac">
+      <Execution id="4ae5fe35-b3ea-423d-9d3d-b0b71aee5f45" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.ButtonsAndLinksTests" name="RaiseButton_ShouldBeVisible" />
+    </UnitTest>
+    <UnitTest name="ContactForm_NameField_ShouldBeRequired" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="196715b5-2f2b-fd36-87ca-34a136ccb0fd">
+      <Execution id="b9639724-353d-462b-be86-b895dcbb7fff" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_NameField_ShouldBeRequired" />
+    </UnitTest>
+    <UnitTest name="ContactForm_MessageField_ShouldAcceptInput" storage="c:\users\hariharanp\documents\learning\playwright\playwrightbat\playwrightcategory\bin\debug\net10.0\playwrightcategory.dll" id="97b3481c-a448-cc04-2d6d-96d8ad0a76b6">
+      <Execution id="8dad7a26-f585-44e2-ae4e-c9b26a8b9329" />
+      <TestMethod codeBase="C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll" adapterTypeName="executor://nunit3testexecutor/" className="PlaywrightCategory.Tests.FormInputTests" name="ContactForm_MessageField_ShouldAcceptInput" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="ce355a25-9505-2649-d72b-deebc86af876" executionId="eb58abe0-36c0-45b7-91f8-55b32651a093" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f55a17b-105b-cbe8-f1fe-861c0e3fa356" executionId="6846d7ad-a419-4f5f-b3fb-de85368cf329" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df57805f-67b4-a59f-486c-2bbdaf8d3d41" executionId="50c09d07-865c-46c7-8411-e67db315ea02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c4c482f-03c1-933f-d8e8-b9a2b9627db6" executionId="450372f0-3597-4815-a516-ac5a0d96f963" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5e5ae38a-f8f3-e85e-6ec3-27281031bcbf" executionId="da5baa3d-ee7b-4e83-b766-d54d9fe28ebe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="97b3481c-a448-cc04-2d6d-96d8ad0a76b6" executionId="8dad7a26-f585-44e2-ae4e-c9b26a8b9329" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f7d353fa-9ee4-4aff-07f0-ecd2cedeb161" executionId="44074ead-cf9d-4ba7-93cd-3fc45de66950" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae562921-fd64-76ab-4ed9-ec04210dc31b" executionId="991f1c58-20d8-46c5-b349-24ffb45cd3e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bceccd27-33eb-8cd4-59be-0cbfbc277260" executionId="e9bd4e21-400a-40a0-94fd-892afd32d7b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9cd9f01f-a8ab-055d-0b4c-28bddded5c1e" executionId="4b1dec95-bdea-4096-a3e9-17cbc58ecfff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc6dba8e-8953-d6f8-cdda-27e2ed9330c6" executionId="d2de5664-283c-481e-9977-e4bfc698e294" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea135cb0-8d82-e3dd-1698-1530d29a5feb" executionId="0783b4ce-a1f1-4785-be2b-6bacd6092187" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6390a4a2-667d-8cd5-d644-b260e609ab9e" executionId="2e0406db-aacf-4a48-bdad-fda370503143" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad9a3be4-be88-f889-e623-8987a6bddfe1" executionId="ae7f1ec3-0146-454a-ba12-d2e6347fb435" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57e1be12-d0d5-efec-8a76-d7391b406d9c" executionId="91c547b0-c06e-473f-8ebe-b7c6ab31bef4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="498ce223-5841-bdda-2ef2-2b362aa885ed" executionId="9010571b-952e-44d7-b247-62eac37cf288" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b35445c-427a-a1c7-1ec9-93280d840a90" executionId="85b2388e-eb51-4b63-bff1-1533f12561b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="43263809-cc7d-5153-f33e-50f0afeb71ac" executionId="4ae5fe35-b3ea-423d-9d3d-b0b71aee5f45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d3092ad3-a536-d9e0-095e-050a28c43a39" executionId="f2c906c6-f4cb-4c96-a3fc-87cce3f6249f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c6468c0-beeb-4b32-c631-81a7e98e88e9" executionId="5a05ef2c-921f-4c52-89b2-3dd30560cabc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="76f1a43c-8371-175b-0775-04ee99471b10" executionId="d23f8901-cdd8-4692-9d1a-ab6cfd44b541" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1bce6317-7394-9783-30b7-284b4b1c1b18" executionId="bc77b019-2ad0-43ae-8fb2-cc70da0ec3c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f68492f8-e057-8d87-ef18-1deedc111062" executionId="e20d737b-8eb9-4d56-8f31-656836a9fb02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="97d6f897-4030-66ec-2c91-d7b6036630b7" executionId="6221892b-6bad-4da4-a2ff-59fca67de376" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c39c0913-ca96-efe0-794f-f51f328d8475" executionId="35b1ce2a-8249-4257-9d5b-f435ce561ffc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a2dfe42b-af93-1acf-6074-60f2dce80817" executionId="4d081617-8115-460c-ac48-cda13cb627a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="196715b5-2f2b-fd36-87ca-34a136ccb0fd" executionId="b9639724-353d-462b-be86-b895dcbb7fff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc080bdc-eace-7d28-6fa0-16b280958634" executionId="7fa0f53b-9065-4657-b14f-e67060eb988f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e9ed7e2e-7d01-56b7-43cb-7e9647908dcd" executionId="4f9a73b2-ee9f-4562-a3f2-c8ec2c35d330" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="29" executed="29" passed="29" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 5.0.0.0: Test execution started&#xD;
+Running all tests in C:\Users\HariharanP\Documents\Learning\Playwright\PlaywrightBAT\PlaywrightCategory\bin\Debug\net10.0\PlaywrightCategory.dll&#xD;
+   NUnit3TestExecutor discovered 29 of 29 NUnit test cases using Current Discovery mode, Non-Explicit run&#xD;
+Textareas: 0&#xD;
+Textboxes: 0&#xD;
+Frames: 2&#xD;
+Frame URL: https://40m40a.share-na2.hsforms.com/23I1BOSbZSkmmb1UP2OzAjw&#xD;
+Frame textareas: 0&#xD;
+Frame textboxes: 0&#xD;
+Frame URL: about:blank&#xD;
+Frame textareas: 0&#xD;
+Frame textboxes: 0&#xD;
+&#xD;
+Before click: False&#xD;
+HTML: &lt;input type="checkbox" name="vehicle" value="Bike"&gt;&#xD;
+After click: False&#xD;
+&#xD;
+Male checked: False&#xD;
+Female checked: True&#xD;
+Male checked after selecting female: False&#xD;
+&#xD;
+NUnit Adapter 5.0.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
